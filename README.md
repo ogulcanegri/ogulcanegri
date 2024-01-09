@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba 👋, ben Oğulcan</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h1>Merhaba 👋, ben Oğulcan</h1>
+<h3>FrontEnd Developer</h3>
 
-- 🧷Ankara Büyükşehir Belediyesi **Deprem Uyarıİnkaz**
+- 🧷Ankara Büyükşehir Belediyesi **Deprem Uyarı İnkaz**
 
 - 🪐 Ayrancı Mesleki Teknik Anadolu Lisesi **Yazılım Mühendisi**
 
