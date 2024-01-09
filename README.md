@@ -11,6 +11,6 @@
 
 - 📝 Blog Web [https: //ogulcanegri.github.io](https://ogulcanegri.github.io)
 
-- 💬 Hakkımda **Yazılım Mğhendisi - FrotnEnd Developer**
+- 💬 Hakkımda **Yazılım Mühendisi - Frotn End , Back End Developer**
 
 - 📫 Mail Adresim **ogulcanegri23@gmail.com**
