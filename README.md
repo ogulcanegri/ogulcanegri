@@ -14,6 +14,3 @@
 - 💬 Hakkımda **Yazılım Mühendisi - Frotn End , Back End Developer**
 
 - 📫 Mail Adresim **ogulcanegri23@gmail.com**
-<hr>
-<h1>Projeler</h1>
-- 👨‍💻 Portföy Web [[https://github.com/ogulcanegri](https://github.com/ogulcanegri/ogulcanegri.github.io)]([https://github.com/ogulcanegri](https://github.com/ogulcanegri/ogulcanegri.github.io)https://github.com/ogulcanegri/ogulcanegri.github.io)
