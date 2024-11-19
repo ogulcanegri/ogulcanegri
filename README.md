@@ -1,11 +1,7 @@
 <h1>Merhaba 👋, ben Oğulcan</h1>
 <h3>FrontEnd Developer</h3>
 
-- 🧷Ankara Büyükşehir Belediyesi **Deprem Uyarı İnkaz**
-
-- 🪐 Ayrancı Mesleki Teknik Anadolu Lisesi **Yazılım Mühendisi**
-
-- 🧷Weacont Games **Optimizer**
+- ⭐️ Game, & Level Design
 
 - 👨‍💻 Portföy [https://github.com/ogulcanegri](https://github.com/ogulcanegri)
 
@@ -13,4 +9,4 @@
 
 - 💬 Hakkımda **Yazılım Mühendisi - Frotn End , Back End Developer**
 
-- 📫 Mail Adresim **ogulcanegri23@gmail.com**
+- 📫 Mail Adresim **ogulcan.dev.io@gmail.com**
