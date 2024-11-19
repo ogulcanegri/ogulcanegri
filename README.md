@@ -1,7 +1,7 @@
 <h1>Merhaba 👋, ben Oğulcan</h1>
 <h3>FrontEnd Developer</h3>
 
-- ⭐️ Game, & Level Design
+- ⭐️ Game & Level Design
 
 - 👨‍💻 Portföy [https://github.com/ogulcanegri](https://github.com/ogulcanegri)
 
